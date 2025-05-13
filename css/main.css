@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Tahoma', 'Helvetica', 'Sans-Serif';
+    font-family:'Optima', 'Monserrat', 'Tahoma';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,14 +21,16 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Tahoma', 'Helvetica', 'Sans-Serif';
+    font-family:'Optima', 'Monserrat', 'Tahoma';
 }
 p {
+    font-family:'Optima', 'Monserrat', 'Tahoma';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
+    font-family:'Optima', 'Monserrat', 'Tahoma';
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
