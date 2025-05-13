@@ -23,10 +23,18 @@ h1 {
     font-size: 3em;
     font-family:'Raleway', 'Optima', 'Monserrat', 'Tahoma';
 }
-p {
+
+h2 {
     font-family:'Raleway', 'Optima', 'Monserrat', 'Tahoma';
     font-size: 1.5em;
     line-height: 1.4em;
+    color: #333;
+}
+
+p {
+    font-family:'Raleway', 'Optima', 'Monserrat', 'Tahoma';
+    font-size: 1em;
+    line-height: 1em;
     color: #333;
 }
 footer {
