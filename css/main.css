@@ -44,7 +44,9 @@ p {
 }
 
 img {
-    display: inline;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 footer {
