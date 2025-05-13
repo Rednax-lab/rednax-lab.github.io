@@ -48,11 +48,12 @@ footer {
     font-size: 1.5em;
 }
 
-ul.posts { 
+ul { 
+    font-family:'Raleway', 'Optima', 'Monserrat', 'Tahoma';
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
-ul.posts li {
+ul li {
     list-style: none;
 }
