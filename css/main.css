@@ -13,6 +13,14 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+.logo {
+    disply:flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 0;
+}
+
 .social-icons {
     display: grid;
     font-size: 3rem;
