@@ -14,10 +14,11 @@ nav ul li, footer ul li {
 }
 
 .logo {
+    display: inline;
     width: 200px;
     position: absolute;
     top: 23px;
-    right: 23px;
+    align: right;
 }
 
 .social-icons {
