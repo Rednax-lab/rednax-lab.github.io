@@ -14,11 +14,9 @@ nav ul li, footer ul li {
 }
 
 .logo {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-evenly;
+    width: 200px;
     position: absolute;
-    top: 0;
+    top: 23px;
 }
 
 .social-icons {
