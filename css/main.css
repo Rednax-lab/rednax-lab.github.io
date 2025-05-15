@@ -76,6 +76,11 @@ footer {
     position: absolute;
 }
 
+.zettle_logo {
+    display: inline;
+    position: absolute;
+}
+
 ul { 
     font-family:'Raleway', 'Optima', 'Monserrat', 'Tahoma';
     margin: 20px auto 40px; 
